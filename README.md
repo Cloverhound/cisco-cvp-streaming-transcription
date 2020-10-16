@@ -64,6 +64,8 @@ The remote URL points to your media forking control servlet, to which call notif
       uc wsapi
         provider xmf
           remote-url http://10.61.68.102:9090/forkctrl/forking
+	  
+https://developer.cisco.com/site/uc-gateway-services/documents/
 
 **Using Google Speech-to-Text API**
 
